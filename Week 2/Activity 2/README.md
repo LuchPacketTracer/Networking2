@@ -151,11 +151,11 @@ R    192.168.2.0/24 [120/1] via 10.0.0.2, 00:00:07, Serial0/0
 ### Logical View
 
 <p align="center">
-  <img src="./images/LogicalView.png" />
+  <img src="./Images/LogicalView.png" />
 </p>
 
 ### Webserver viewed via PC A Web Browser
 
 <p align="center">
-  <img src="./images/Webserver.png" />
+  <img src="./Images/Webserver.png" />
 </p>
